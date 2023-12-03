@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Hyeju Han
-- 👀 I’m interested in Data Engineering & Backend Engineering.
-- 🌱 I'm currently learning various education as the 4th KT AIVLE School
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeju373)](https://solved.ac/hyeju373/)
+
 
 <!--
 **hanaeju/hanaeju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
