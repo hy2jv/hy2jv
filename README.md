@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA07A&text=&animation=twinkling&height=100)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFA07A&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Hyeju's+GitHub!👋)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFA07A&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Hyeju's+GitHub!👋)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeju373)](https://solved.ac/hyeju373/) 
