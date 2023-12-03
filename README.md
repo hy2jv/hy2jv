@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanaeju&show_icons=true&theme=default)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeju373)](https://solved.ac/hyeju373/)
 
 
