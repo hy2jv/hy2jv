@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi, I’m Hyeju Han
+- 👀 I’m interested in Data Engineering & Backend Engineering.
+- 🌱 I'm currently learning various education as the 4th KT AIVLE School
 
 <!--
 **hanaeju/hanaeju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
