@@ -3,7 +3,7 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeju373)](https://solved.ac/hyeju373/) 
-![image](https://github.com/hanaeju/hanaeju/assets/98371516/22af176d-b511-4863-9b18-9b70a6567252)
+<!--![image](https://github.com/hanaeju/hanaeju/assets/98371516/22af176d-b511-4863-9b18-9b70a6567252)-->
 
 
 
