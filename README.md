@@ -2,10 +2,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=FFA07A&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Hyeju's+GitHub!👋)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeju373)](https://solved.ac/hyeju373/) 
-<!--![image](https://github.com/hanaeju/hanaeju/assets/98371516/22af176d-b511-4863-9b18-9b70a6567252)-->
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyeju373&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeju373)](https://solved.ac/hyeju373/) &nbsp; ![mazandi profile](http://mazandi.herokuapp.com/api?handle=hyeju373&theme=warm)
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanaeju&show_icons=true&theme=radical)
